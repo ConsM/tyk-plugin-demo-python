@@ -36,4 +36,4 @@ You may check the [tyk-cli documentation](https://github.com/TykTechnologies/tyk
 
 ## Additional documentation
 
-- [An overview of Python support in Tyk]()
+- [An overview of Python support in Tyk](https://tyk.io/extend-tyk/with-python/)
